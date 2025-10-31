@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/NHS-CUH-ODO/static/css/main.cf890fdb.css",
+    "main.js": "/NHS-CUH-ODO/static/js/main.9240406d.js",
+    "index.html": "/NHS-CUH-ODO/index.html",
+    "main.cf890fdb.css.map": "/NHS-CUH-ODO/static/css/main.cf890fdb.css.map",
+    "main.9240406d.js.map": "/NHS-CUH-ODO/static/js/main.9240406d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf890fdb.css",
+    "static/js/main.9240406d.js"
+  ]
+}
